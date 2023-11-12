@@ -1,0 +1,6 @@
+[submodule "esn-ble-prov"]
+	path = esn-ble-prov
+	url = https://github.com/lomolisso/esn-ble-prov
+[submodule "esn-edgex-foundry"]
+	path = esn-edgex-foundry
+	url = https://github.com/lomolisso/esn-edgex-foundry
