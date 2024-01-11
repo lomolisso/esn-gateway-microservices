@@ -4,3 +4,6 @@
 [submodule "esn-edgex-foundry"]
 	path = esn-edgex-foundry
 	url = https://github.com/lomolisso/esn-edgex-foundry
+[submodule "esn-predictive-node"]
+	path = esn-predictive-node
+	url = git@github.com:lomolisso/esn-predictive-node.git
